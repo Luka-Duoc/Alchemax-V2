@@ -88,4 +88,4 @@ Las siguientes características están programadas para los próximos _sprints_,
 Desarrollado como proyecto académico de ingeniería de software para la asignatura DSY1104.
 
 - **Equipo:** Colo Colo
-- **Integrantes:** Ignacio Battistoni, Lucas Ortiz, Cristopher Rojas
+- **Integrantes:** Lucas Ortiz, Cristopher Rojas
